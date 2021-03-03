@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.first-efcore-api.iml
+/contentModel.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../:\tomas-aguiar-git\first-efcore-api\.idea\.idea.first-efcore-api\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
