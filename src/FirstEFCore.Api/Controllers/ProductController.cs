@@ -11,9 +11,9 @@ namespace FirstEFCore.Api.Controllers
     {
         private readonly DataContext _context;
 
-        public ProductController(IConfiguration configuration)
+        public ProductController()
         {
-            _context = new DataContext(configuration);
+            _context = new DataContext();
         }
         
         [HttpPost]

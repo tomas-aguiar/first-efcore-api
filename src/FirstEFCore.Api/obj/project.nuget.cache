@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nkeaxPjkU7q+uNQ6vG9QAewhT6b9pO4gFKxgKw6t9WfHy9Nyt9tSBKEtWAy90RaL+C42kRTE4v2uP+3iLLO2FA==",
+  "dgSpecHash": "r+4S22UUdDL8fxuAojISqd2oRwYKFbGnrWQkz7vF+VsxHoAUdLHSl94difK7UOC4cVgWm/d7FCO8f5a+2asD5Q==",
   "success": true,
   "projectFilePath": "C:\\tomas-aguiar-git\\first-efcore-api\\src\\FirstEFCore.Api\\FirstEFCore.Api.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\tomas.h.aguiar\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\tomas.h.aguiar\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\tomas.h.aguiar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tomas.h.aguiar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\tomas.h.aguiar\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\tomas.h.aguiar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\tomas.h.aguiar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
